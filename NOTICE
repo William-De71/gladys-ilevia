@@ -1,0 +1,15 @@
+Gladys Ilévia integration
+Copyright 2026 William Deren
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The passages, lines, stops and traffic messages come from the open data of
+Ilévia, the bus, metro and tram network of the Métropole Européenne de Lille
+(MEL), published by the MEL on https://data.lillemetropole.fr under the
+Licence Ouverte / Open Licence 2.0 (Etalab):
+https://www.etalab.gouv.fr/licence-ouverte-open-licence/. Source: MEL – Ilévia.
+The widgets show the source (Ilévia) and the time of each reading. The files
+under test/fixtures are extracts of these data, kept under the same licence.
+
+This community integration is not affiliated with, endorsed or sponsored by
+Ilévia, Keolis Lille Métropole or the Métropole Européenne de Lille.

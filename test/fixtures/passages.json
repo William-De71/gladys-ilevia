@@ -1,0 +1,1250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725609",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725609,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "88",
+        "sens_ligne": "CHARIOT D'OR",
+        "heure_estimee_depart": "2026-10-27T17:29:41Z",
+        "date_modification": "2026-10-27T16:59:42.451Z",
+        "cle_modification": "SIRI:395006248",
+        "cle_tri": "CHARIOT D'OR/GARE LILLE FLANDRES/2026-10-27T17:29:41.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725629",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725629,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG115:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "50",
+        "sens_ligne": "CHEMIN DE MESSINES",
+        "heure_estimee_depart": "2026-10-27T17:12:48Z",
+        "date_modification": "2026-10-27T16:50:40.401Z",
+        "cle_modification": "SIRI:394946350",
+        "cle_tri": "CHEMIN DE MESSINES/GARE LILLE FLANDRES/2026-10-27T17:12:48.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725870",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725870,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "86",
+        "sens_ligne": "COMINES GARE",
+        "heure_estimee_depart": "2026-10-27T17:04:41Z",
+        "date_modification": "2026-10-27T16:34:45.452Z",
+        "cle_modification": "SIRI:394865725",
+        "cle_tri": "COMINES GARE/GARE LILLE FLANDRES/2026-10-27T17:04:41.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725871",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725871,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "E5",
+        "sens_ligne": "COMINES GARE",
+        "heure_estimee_depart": "2026-10-27T17:15:00Z",
+        "date_modification": "2026-10-27T16:45:08.447Z",
+        "cle_modification": "SIRI:394878564",
+        "cle_tri": "COMINES GARE/GARE LILLE FLANDRES/2026-10-27T17:15:00.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725872",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725872,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "86",
+        "sens_ligne": "COMINES GARE",
+        "heure_estimee_depart": "2026-10-27T17:29:41Z",
+        "date_modification": "2026-10-27T16:59:42.451Z",
+        "cle_modification": "SIRI:394865595",
+        "cle_tri": "COMINES GARE/GARE LILLE FLANDRES/2026-10-27T17:29:41.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725937",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725937,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L90",
+        "sens_ligne": "COMINES MAIRIE",
+        "heure_estimee_depart": "2026-10-27T17:09:41Z",
+        "date_modification": "2026-10-27T16:39:41.978Z",
+        "cle_modification": "SIRI:395004804",
+        "cle_tri": "COMINES MAIRIE/GARE LILLE FLANDRES/2026-10-27T17:09:41.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151725938",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151725938,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L90",
+        "sens_ligne": "COMINES MAIRIE",
+        "heure_estimee_depart": "2026-10-27T17:24:12Z",
+        "date_modification": "2026-10-27T16:54:23.425Z",
+        "cle_modification": "SIRI:395000797",
+        "cle_tri": "COMINES MAIRIE/GARE LILLE FLANDRES/2026-10-27T17:24:12.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726054",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726054,
+        "identifiant_station": "ILEVIA:StopPoint:BP:RRE002:LOC",
+        "nom_station": "RONCHIN REPUBLIQUE",
+        "code_ligne": "15",
+        "sens_ligne": "CRT 4",
+        "heure_estimee_depart": "2026-10-27T17:05:13Z",
+        "date_modification": "2026-10-27T16:59:21.437Z",
+        "cle_modification": "SIRI:394906984",
+        "cle_tri": "CRT 4/RONCHIN REPUBLIQUE/2026-10-27T17:05:13.000+01:00",
+        "code_insee": "59507",
+        "commune": "Ronchin",
+        "rue": null,
+        "code_arret_physique": "RRE002"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726055",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726055,
+        "identifiant_station": "ILEVIA:StopPoint:BP:RRE002:LOC",
+        "nom_station": "RONCHIN REPUBLIQUE",
+        "code_ligne": "15",
+        "sens_ligne": "CRT 4",
+        "heure_estimee_depart": "2026-10-27T17:18:09Z",
+        "date_modification": "2026-10-27T16:55:09.393Z",
+        "cle_modification": "SIRI:394904944",
+        "cle_tri": "CRT 4/RONCHIN REPUBLIQUE/2026-10-27T17:18:09.000+01:00",
+        "code_insee": "59507",
+        "commune": "Ronchin",
+        "rue": null,
+        "code_arret_physique": "RRE002"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726170",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726170,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB006:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "CO3",
+        "sens_ligne": "ENGLOS CENTRE COMMERCIAL",
+        "heure_estimee_depart": "2026-10-27T17:03:46Z",
+        "date_modification": "2026-10-27T16:59:08.773Z",
+        "cle_modification": "SIRI:394917284",
+        "cle_tri": "ENGLOS CENTRE COMMERCIAL/V. D'ASCQ PONT DE BOIS/2026-10-27T17:03:46.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB006"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726315",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726315,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "L1",
+        "sens_ligne": "FACHES CENTRE COMMERCIAL",
+        "heure_estimee_depart": "2026-10-27T17:00:14Z",
+        "date_modification": "2026-10-27T16:55:27.530Z",
+        "cle_modification": "SIRI:394844614",
+        "cle_tri": "FACHES CENTRE COMMERCIAL/REPUBLIQUE BEAUX ARTS/2026-10-27T17:00:14.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726316",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726316,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "L1",
+        "sens_ligne": "FACHES CENTRE COMMERCIAL",
+        "heure_estimee_depart": "2026-10-27T17:09:47Z",
+        "date_modification": "2026-10-27T16:59:10.166Z",
+        "cle_modification": "SIRI:394849201",
+        "cle_tri": "FACHES CENTRE COMMERCIAL/REPUBLIQUE BEAUX ARTS/2026-10-27T17:09:47.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726439",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726439,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB012:LOC",
+        "nom_station": "V.ASCQ PONT DE BOIS",
+        "code_ligne": "C2",
+        "sens_ligne": "FORT DE MONS",
+        "heure_estimee_depart": "2026-10-27T17:02:15Z",
+        "date_modification": "2026-10-27T16:56:47.085Z",
+        "cle_modification": "SIRI:394909032",
+        "cle_tri": "FORT DE MONS/V.ASCQ PONT DE BOIS/2026-10-27T17:02:15.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB012"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726440",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726440,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB012:LOC",
+        "nom_station": "V.ASCQ PONT DE BOIS",
+        "code_ligne": "C2",
+        "sens_ligne": "FORT DE MONS",
+        "heure_estimee_depart": "2026-10-27T17:13:19Z",
+        "date_modification": "2026-10-27T16:49:52.173Z",
+        "cle_modification": "SIRI:394985951",
+        "cle_tri": "FORT DE MONS/V.ASCQ PONT DE BOIS/2026-10-27T17:13:19.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB012"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726443",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726443,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB001:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "L6",
+        "sens_ligne": "FORT DE MONS",
+        "heure_estimee_depart": "2026-10-27T17:05:00Z",
+        "date_modification": "2026-10-27T16:53:37.221Z",
+        "cle_modification": "SIRI:394868349",
+        "cle_tri": "FORT DE MONS/V. D'ASCQ PONT DE BOIS/2026-10-27T17:05:00.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726444",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726444,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB001:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "L6",
+        "sens_ligne": "FORT DE MONS",
+        "heure_estimee_depart": "2026-10-27T17:12:34Z",
+        "date_modification": "2026-10-27T16:58:49.108Z",
+        "cle_modification": "SIRI:394867190",
+        "cle_tri": "FORT DE MONS/V. D'ASCQ PONT DE BOIS/2026-10-27T17:12:34.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726517",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726517,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "88",
+        "sens_ligne": "GARE LILLE EUROPE",
+        "heure_estimee_depart": "2026-10-27T17:08:55Z",
+        "date_modification": "2026-10-27T16:58:09.750Z",
+        "cle_modification": "SIRI:395006241",
+        "cle_tri": "GARE LILLE EUROPE/GARE LILLE FLANDRES/2026-10-27T17:08:55.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726518",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726518,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L91",
+        "sens_ligne": "GARE LILLE EUROPE",
+        "heure_estimee_depart": "2026-10-27T17:08:55Z",
+        "date_modification": "2026-10-27T16:59:06.360Z",
+        "cle_modification": "SIRI:394919085",
+        "cle_tri": "GARE LILLE EUROPE/GARE LILLE FLANDRES/2026-10-27T17:08:55.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726519",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726519,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "86",
+        "sens_ligne": "GARE LILLE EUROPE",
+        "heure_estimee_depart": "2026-10-27T17:14:50Z",
+        "date_modification": "2026-10-27T16:48:52.225Z",
+        "cle_modification": "SIRI:394867415",
+        "cle_tri": "GARE LILLE EUROPE/GARE LILLE FLANDRES/2026-10-27T17:14:50.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726520",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726520,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L90",
+        "sens_ligne": "GARE LILLE EUROPE",
+        "heure_estimee_depart": "2026-10-27T17:21:49Z",
+        "date_modification": "2026-10-27T16:57:36.506Z",
+        "cle_modification": "SIRI:395001573",
+        "cle_tri": "GARE LILLE EUROPE/GARE LILLE FLANDRES/2026-10-27T17:21:49.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726702",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726702,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LQS098:LOC",
+        "nom_station": "LE QUESNE",
+        "code_ligne": "RTW",
+        "sens_ligne": "GARE LILLE FLANDRES",
+        "heure_estimee_depart": "2026-10-27T17:04:50Z",
+        "date_modification": "2026-10-27T16:59:23.022Z",
+        "cle_modification": "SIRI:395025005",
+        "cle_tri": "GARE LILLE FLANDRES/LE QUESNE/2026-10-27T17:04:50.000+01:00",
+        "code_insee": "59378",
+        "commune": "Marcq-en-Barœul",
+        "rue": null,
+        "code_arret_physique": "LQS098"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726703",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726703,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LQS098:LOC",
+        "nom_station": "LE QUESNE",
+        "code_ligne": "RTW",
+        "sens_ligne": "GARE LILLE FLANDRES",
+        "heure_estimee_depart": "2026-10-27T17:14:05Z",
+        "date_modification": "2026-10-27T16:58:36.495Z",
+        "cle_modification": "SIRI:395025123",
+        "cle_tri": "GARE LILLE FLANDRES/LE QUESNE/2026-10-27T17:14:05.000+01:00",
+        "code_insee": "59378",
+        "commune": "Marcq-en-Barœul",
+        "rue": null,
+        "code_arret_physique": "LQS098"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726808",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726808,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG117:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L91",
+        "sens_ligne": "HALLUIN GOUNOD",
+        "heure_estimee_depart": "2026-10-27T17:09:41Z",
+        "date_modification": "2026-10-27T16:41:03.266Z",
+        "cle_modification": "SIRI:394918650",
+        "cle_tri": "HALLUIN GOUNOD/GARE LILLE FLANDRES/2026-10-27T17:09:41.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG117"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726809",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726809,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "E1",
+        "sens_ligne": "HALLUIN GOUNOD",
+        "heure_estimee_depart": "2026-10-27T17:20:00Z",
+        "date_modification": "2026-10-27T16:50:00.427Z",
+        "cle_modification": "SIRI:394904139",
+        "cle_tri": "HALLUIN GOUNOD/GARE LILLE FLANDRES/2026-10-27T17:20:00.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726968",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726968,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG112:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L5",
+        "sens_ligne": "HAUBOURDIN LE PARC",
+        "heure_estimee_depart": "2026-10-27T17:08:00Z",
+        "date_modification": "2026-10-27T16:58:20.466Z",
+        "cle_modification": "SIRI:394951492",
+        "cle_tri": "HAUBOURDIN LE PARC/GARE LILLE FLANDRES/2026-10-27T17:08:00.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG112"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151726969",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151726969,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG112:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L5",
+        "sens_ligne": "HAUBOURDIN LE PARC",
+        "heure_estimee_depart": "2026-10-27T17:16:08Z",
+        "date_modification": "2026-10-27T16:59:02.195Z",
+        "cle_modification": "SIRI:394952234",
+        "cle_tri": "HAUBOURDIN LE PARC/GARE LILLE FLANDRES/2026-10-27T17:16:08.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG112"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727079",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727079,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG091:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L5",
+        "sens_ligne": "LA MADELEINE MONTGOLFIER",
+        "heure_estimee_depart": "2026-10-27T17:09:01Z",
+        "date_modification": "2026-10-27T16:55:30.655Z",
+        "cle_modification": "SIRI:394960249",
+        "cle_tri": "LA MADELEINE MONTGOLFIER/GARE LILLE FLANDRES/2026-10-27T17:09:01.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG091"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727091",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727091,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP007:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "L5",
+        "sens_ligne": "LA MADELEINE MONTGOLFIER",
+        "heure_estimee_depart": "2026-10-27T17:02:02Z",
+        "date_modification": "2026-10-27T16:53:54.937Z",
+        "cle_modification": "SIRI:394960246",
+        "cle_tri": "LA MADELEINE MONTGOLFIER/REPUBLIQUE BEAUX ARTS/2026-10-27T17:02:02.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP007"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727277",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727277,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB021:LOC",
+        "nom_station": "V.D'ASCQ PONT DE BOIS",
+        "code_ligne": "E4",
+        "sens_ligne": "LEERS COEUR DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:00:00Z",
+        "date_modification": "2026-10-27T16:53:08.970Z",
+        "cle_modification": "SIRI:394983909",
+        "cle_tri": "LEERS COEUR DE VILLE/V.D'ASCQ PONT DE BOIS/2026-10-27T17:00:00.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727320",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727320,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG006:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "10",
+        "sens_ligne": "LILLE CHU-CENTRE O. LAMBRET",
+        "heure_estimee_depart": "2026-10-27T17:00:00Z",
+        "date_modification": "2026-10-27T16:58:27.769Z",
+        "cle_modification": "SIRI:394931544",
+        "cle_tri": "LILLE CHU-CENTRE O. LAMBRET/GARE LILLE FLANDRES/2026-10-27T17:00:00.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG006"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727461",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727461,
+        "identifiant_station": "ILEVIA:StopPoint:BP:RRE001:LOC",
+        "nom_station": "RONCHIN REPUBLIQUE",
+        "code_ligne": "15",
+        "sens_ligne": "LILLE PORTE DE DOUAI",
+        "heure_estimee_depart": "2026-10-27T17:09:10Z",
+        "date_modification": "2026-10-27T16:39:13.075Z",
+        "cle_modification": "SIRI:394904825",
+        "cle_tri": "LILLE PORTE DE DOUAI/RONCHIN REPUBLIQUE/2026-10-27T17:09:10.000+01:00",
+        "code_insee": "59507",
+        "commune": "Ronchin",
+        "rue": null,
+        "code_arret_physique": "RRE001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727462",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727462,
+        "identifiant_station": "ILEVIA:StopPoint:BP:RRE001:LOC",
+        "nom_station": "RONCHIN REPUBLIQUE",
+        "code_ligne": "15",
+        "sens_ligne": "LILLE PORTE DE DOUAI",
+        "heure_estimee_depart": "2026-10-27T17:24:10Z",
+        "date_modification": "2026-10-27T16:54:17.278Z",
+        "cle_modification": "SIRI:394906193",
+        "cle_tri": "LILLE PORTE DE DOUAI/RONCHIN REPUBLIQUE/2026-10-27T17:24:10.000+01:00",
+        "code_insee": "59507",
+        "commune": "Ronchin",
+        "rue": null,
+        "code_arret_physique": "RRE001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727578",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727578,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "C1",
+        "sens_ligne": "LILLE PORTE DES POSTES",
+        "heure_estimee_depart": "2026-10-27T17:05:47Z",
+        "date_modification": "2026-10-27T16:56:00.564Z",
+        "cle_modification": "SIRI:394847147",
+        "cle_tri": "LILLE PORTE DES POSTES/REPUBLIQUE BEAUX ARTS/2026-10-27T17:05:47.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727579",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727579,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "C1",
+        "sens_ligne": "LILLE PORTE DES POSTES",
+        "heure_estimee_depart": "2026-10-27T17:07:58Z",
+        "date_modification": "2026-10-27T16:58:22.641Z",
+        "cle_modification": "SIRI:394847606",
+        "cle_tri": "LILLE PORTE DES POSTES/REPUBLIQUE BEAUX ARTS/2026-10-27T17:07:58.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727580",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727580,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "C1",
+        "sens_ligne": "LILLE PORTE DES POSTES",
+        "heure_estimee_depart": "2026-10-27T17:15:05Z",
+        "date_modification": "2026-10-27T16:52:56.194Z",
+        "cle_modification": "SIRI:394846205",
+        "cle_tri": "LILLE PORTE DES POSTES/REPUBLIQUE BEAUX ARTS/2026-10-27T17:15:05.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727581",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727581,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "C1",
+        "sens_ligne": "LILLE PORTE DES POSTES",
+        "heure_estimee_depart": "2026-10-27T17:23:17Z",
+        "date_modification": "2026-10-27T16:57:42.280Z",
+        "cle_modification": "SIRI:394845186",
+        "cle_tri": "LILLE PORTE DES POSTES/REPUBLIQUE BEAUX ARTS/2026-10-27T17:23:17.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727690",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727690,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "18",
+        "sens_ligne": "LOMME ANATOLE FRANCE",
+        "heure_estimee_depart": "2026-10-27T17:00:14Z",
+        "date_modification": "2026-10-27T16:53:02.318Z",
+        "cle_modification": "SIRI:394993090",
+        "cle_tri": "LOMME ANATOLE FRANCE/REPUBLIQUE BEAUX ARTS/2026-10-27T17:00:14.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727691",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727691,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "18",
+        "sens_ligne": "LOMME ANATOLE FRANCE",
+        "heure_estimee_depart": "2026-10-27T17:10:48Z",
+        "date_modification": "2026-10-27T16:59:15.666Z",
+        "cle_modification": "SIRI:394992958",
+        "cle_tri": "LOMME ANATOLE FRANCE/REPUBLIQUE BEAUX ARTS/2026-10-27T17:10:48.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727989",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727989,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "50",
+        "sens_ligne": "MARCQ COLLEGE",
+        "heure_estimee_depart": "2026-10-27T17:04:13Z",
+        "date_modification": "2026-10-27T16:58:42.154Z",
+        "cle_modification": "SIRI:394944684",
+        "cle_tri": "MARCQ COLLEGE/GARE LILLE FLANDRES/2026-10-27T17:04:13.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151727990",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151727990,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "50",
+        "sens_ligne": "MARCQ COLLEGE",
+        "heure_estimee_depart": "2026-10-27T17:19:01Z",
+        "date_modification": "2026-10-27T16:49:07.168Z",
+        "cle_modification": "SIRI:394997665",
+        "cle_tri": "MARCQ COLLEGE/GARE LILLE FLANDRES/2026-10-27T17:19:01.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728053",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728053,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG091:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "L5",
+        "sens_ligne": "MARCQ FERME AUX OIES",
+        "heure_estimee_depart": "2026-10-27T17:20:01Z",
+        "date_modification": "2026-10-27T16:58:36.043Z",
+        "cle_modification": "SIRI:394948139",
+        "cle_tri": "MARCQ FERME AUX OIES/GARE LILLE FLANDRES/2026-10-27T17:20:01.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG091"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728149",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728149,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG115:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "14",
+        "sens_ligne": "MARQUETTE LES VOILES",
+        "heure_estimee_depart": "2026-10-27T17:01:01Z",
+        "date_modification": "2026-10-27T16:58:28.738Z",
+        "cle_modification": "SIRI:394979784",
+        "cle_tri": "MARQUETTE LES VOILES/GARE LILLE FLANDRES/2026-10-27T17:01:01.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728150",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728150,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG115:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "14",
+        "sens_ligne": "MARQUETTE LES VOILES",
+        "heure_estimee_depart": "2026-10-27T17:14:01Z",
+        "date_modification": "2026-10-27T16:48:32.935Z",
+        "cle_modification": "SIRI:394977116",
+        "cle_tri": "MARQUETTE LES VOILES/GARE LILLE FLANDRES/2026-10-27T17:14:01.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728186",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728186,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "14",
+        "sens_ligne": "MARQUETTE LES VOILES",
+        "heure_estimee_depart": "2026-10-27T17:05:54Z",
+        "date_modification": "2026-10-27T16:54:55.109Z",
+        "cle_modification": "SIRI:394977113",
+        "cle_tri": "MARQUETTE LES VOILES/REPUBLIQUE BEAUX ARTS/2026-10-27T17:05:54.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728187",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728187,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "14",
+        "sens_ligne": "MARQUETTE LES VOILES",
+        "heure_estimee_depart": "2026-10-27T17:17:00Z",
+        "date_modification": "2026-10-27T16:53:48.523Z",
+        "cle_modification": "SIRI:394978319",
+        "cle_tri": "MARQUETTE LES VOILES/REPUBLIQUE BEAUX ARTS/2026-10-27T17:17:00.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728531",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728531,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB411:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "34",
+        "sens_ligne": "ROUBAIX EUROTELEPORT",
+        "heure_estimee_depart": "2026-10-27T17:01:00Z",
+        "date_modification": "2026-10-27T16:56:07.175Z",
+        "cle_modification": "SIRI:394937108",
+        "cle_tri": "ROUBAIX EUROTELEPORT/V. D'ASCQ PONT DE BOIS/2026-10-27T17:01:00.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB411"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151728954",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151728954,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LQS099:LOC",
+        "nom_station": "LE QUESNE",
+        "code_ligne": "RTW",
+        "sens_ligne": "TOURCOING CENTRE",
+        "heure_estimee_depart": "2026-10-27T17:03:34Z",
+        "date_modification": "2026-10-27T16:58:55.095Z",
+        "cle_modification": "SIRI:395025182",
+        "cle_tri": "TOURCOING CENTRE/LE QUESNE/2026-10-27T17:03:34.000+01:00",
+        "code_insee": "59378",
+        "commune": "Marcq-en-Barœul",
+        "rue": null,
+        "code_arret_physique": "LQS099"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729389",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729389,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB009:LOC",
+        "nom_station": "V.D'ASCQ PONT DE BOIS",
+        "code_ligne": "L6",
+        "sens_ligne": "V. D'ASCQ CONTRESCARPE",
+        "heure_estimee_depart": "2026-10-27T17:06:59Z",
+        "date_modification": "2026-10-27T16:59:09.609Z",
+        "cle_modification": "SIRI:394866394",
+        "cle_tri": "V. D'ASCQ CONTRESCARPE/V.D'ASCQ PONT DE BOIS/2026-10-27T17:06:59.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB009"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729549",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729549,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB005:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "32",
+        "sens_ligne": "V. D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:07:54Z",
+        "date_modification": "2026-10-27T16:56:14.317Z",
+        "cle_modification": "SIRI:394924465",
+        "cle_tri": "V. D'ASCQ HOTEL DE VILLE/V. D'ASCQ PONT DE BOIS/2026-10-27T17:07:54.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729550",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729550,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB013:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "C2",
+        "sens_ligne": "V. D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:11:25Z",
+        "date_modification": "2026-10-27T16:59:42.421Z",
+        "cle_modification": "SIRI:394911020",
+        "cle_tri": "V. D'ASCQ HOTEL DE VILLE/V. D'ASCQ PONT DE BOIS/2026-10-27T17:11:25.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729551",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729551,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB013:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "C2",
+        "sens_ligne": "V. D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:26:05Z",
+        "date_modification": "2026-10-27T16:59:42.421Z",
+        "cle_modification": "SIRI:394986209",
+        "cle_tri": "V. D'ASCQ HOTEL DE VILLE/V. D'ASCQ PONT DE BOIS/2026-10-27T17:26:05.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729552",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729552,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB005:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "CO3",
+        "sens_ligne": "V. D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:26:30Z",
+        "date_modification": "2026-10-27T16:56:36.403Z",
+        "cle_modification": "SIRI:394994158",
+        "cle_tri": "V. D'ASCQ HOTEL DE VILLE/V. D'ASCQ PONT DE BOIS/2026-10-27T17:26:30.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729553",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729553,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB005:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "32",
+        "sens_ligne": "V. D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:28:15Z",
+        "date_modification": "2026-10-27T16:58:23.259Z",
+        "cle_modification": "SIRI:394926348",
+        "cle_tri": "V. D'ASCQ HOTEL DE VILLE/V. D'ASCQ PONT DE BOIS/2026-10-27T17:28:15.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729643",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729643,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG115:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "51",
+        "sens_ligne": "VERLINGHEM MAIRIE",
+        "heure_estimee_depart": "2026-10-27T17:21:00Z",
+        "date_modification": "2026-10-27T16:55:29.951Z",
+        "cle_modification": "SIRI:394994778",
+        "cle_tri": "VERLINGHEM MAIRIE/GARE LILLE FLANDRES/2026-10-27T17:21:00.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729692",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729692,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "18",
+        "sens_ligne": "VILLENEUVE D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:07:07Z",
+        "date_modification": "2026-10-27T16:55:23.082Z",
+        "cle_modification": "SIRI:394991831",
+        "cle_tri": "VILLENEUVE D'ASCQ HOTEL DE VILLE/REPUBLIQUE BEAUX ARTS/2026-10-27T17:07:07.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729693",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729693,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "18",
+        "sens_ligne": "VILLENEUVE D'ASCQ HOTEL DE VILLE",
+        "heure_estimee_depart": "2026-10-27T17:20:20Z",
+        "date_modification": "2026-10-27T16:56:16.487Z",
+        "cle_modification": "SIRI:394992057",
+        "cle_tri": "VILLENEUVE D'ASCQ HOTEL DE VILLE/REPUBLIQUE BEAUX ARTS/2026-10-27T17:20:20.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729770",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729770,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "L1",
+        "sens_ligne": "WAMBRECHIES AGRIPPIN",
+        "heure_estimee_depart": "2026-10-27T17:08:46Z",
+        "date_modification": "2026-10-27T16:57:01.392Z",
+        "cle_modification": "SIRI:394850630",
+        "cle_tri": "WAMBRECHIES AGRIPPIN/REPUBLIQUE BEAUX ARTS/2026-10-27T17:08:46.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729771",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729771,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP003:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "L1",
+        "sens_ligne": "WAMBRECHIES AGRIPPIN",
+        "heure_estimee_depart": "2026-10-27T17:18:08Z",
+        "date_modification": "2026-10-27T16:58:48.144Z",
+        "cle_modification": "SIRI:394876796",
+        "cle_tri": "WAMBRECHIES AGRIPPIN/REPUBLIQUE BEAUX ARTS/2026-10-27T17:18:08.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729865",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729865,
+        "identifiant_station": "ILEVIA:StopPoint:BP:PDB006:LOC",
+        "nom_station": "V. D'ASCQ PONT DE BOIS",
+        "code_ligne": "32",
+        "sens_ligne": "WASQUEHAL JEAN PAUL SARTRE",
+        "heure_estimee_depart": "2026-10-27T17:17:24Z",
+        "date_modification": "2026-10-27T16:47:27.654Z",
+        "cle_modification": "SIRI:394926751",
+        "cle_tri": "WASQUEHAL JEAN PAUL SARTRE/V. D'ASCQ PONT DE BOIS/2026-10-27T17:17:24.000+01:00",
+        "code_insee": "59009",
+        "commune": "Villeneuve-d'Ascq",
+        "rue": null,
+        "code_arret_physique": "PDB006"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729933",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729933,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "14",
+        "sens_ligne": "WATTIGNIES CIMETIERE",
+        "heure_estimee_depart": "2026-10-27T17:06:22Z",
+        "date_modification": "2026-10-27T16:59:10.166Z",
+        "cle_modification": "SIRI:394976185",
+        "cle_tri": "WATTIGNIES CIMETIERE/REPUBLIQUE BEAUX ARTS/2026-10-27T17:06:22.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729952",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729952,
+        "identifiant_station": "ILEVIA:StopPoint:BP:LIG114:LOC",
+        "nom_station": "GARE LILLE FLANDRES",
+        "code_ligne": "14",
+        "sens_ligne": "WATTIGNIES MARAIS",
+        "heure_estimee_depart": "2026-10-27T17:09:01Z",
+        "date_modification": "2026-10-27T16:47:14.015Z",
+        "cle_modification": "SIRI:394978746",
+        "cle_tri": "WATTIGNIES MARAIS/GARE LILLE FLANDRES/2026-10-27T17:09:01.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "LIG114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "prochains_passages.3151729968",
+      "geometry": null,
+      "properties": {
+        "objectid": 3151729968,
+        "identifiant_station": "ILEVIA:StopPoint:BP:REP005:LOC",
+        "nom_station": "REPUBLIQUE BEAUX ARTS",
+        "code_ligne": "14",
+        "sens_ligne": "WATTIGNIES MARAIS",
+        "heure_estimee_depart": "2026-10-27T17:16:10Z",
+        "date_modification": "2026-10-27T16:55:55.383Z",
+        "cle_modification": "SIRI:394978749",
+        "cle_tri": "WATTIGNIES MARAIS/REPUBLIQUE BEAUX ARTS/2026-10-27T17:16:10.000+01:00",
+        "code_insee": "59350",
+        "commune": "Lille",
+        "rue": null,
+        "code_arret_physique": "REP005"
+      }
+    }
+  ],
+  "totalFeatures": 62,
+  "numberMatched": 62,
+  "numberReturned": 62,
+  "timeStamp": "2026-10-27T16:02:08.514Z",
+  "crs": null
+}

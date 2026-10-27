@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.349",
+      "geometry": null,
+      "properties": {
+        "objectid": 349,
+        "code_ligne": "10",
+        "code_ligne_public": "10",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "52AE32",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r82g174b50",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.398",
+      "geometry": null,
+      "properties": {
+        "objectid": 398,
+        "code_ligne": "L1",
+        "code_ligne_public": "L1",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "27348B",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r39g52b139",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.403",
+      "geometry": null,
+      "properties": {
+        "objectid": 403,
+        "code_ligne": "L5",
+        "code_ligne_public": "L5",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "307BBF",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r48g123b191",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.405",
+      "geometry": null,
+      "properties": {
+        "objectid": 405,
+        "code_ligne": "12",
+        "code_ligne_public": "12",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "0080C9",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g128b201",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.406",
+      "geometry": null,
+      "properties": {
+        "objectid": 406,
+        "code_ligne": "18",
+        "code_ligne_public": "18",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "867F34",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r134g127b52",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.411",
+      "geometry": null,
+      "properties": {
+        "objectid": 411,
+        "code_ligne": "CO1",
+        "code_ligne_public": "CO1",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "792A4E",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r121g42b78",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.419",
+      "geometry": null,
+      "properties": {
+        "objectid": 419,
+        "code_ligne": "71",
+        "code_ligne_public": "TRAM",
+        "mode_transport": "TRAMWAY",
+        "couleur_fond_hexadecimal": "009FE3",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g159b227",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.425",
+      "geometry": null,
+      "properties": {
+        "objectid": 425,
+        "code_ligne": "ME1",
+        "code_ligne_public": "M1",
+        "mode_transport": "METRO",
+        "couleur_fond_hexadecimal": "FDC41F",
+        "couleur_texte_hexadecimal": "000000",
+        "couleur_fond_rgb": "r253g196b31",
+        "couleur_texte_rgb": "r0g0b0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.427",
+      "geometry": null,
+      "properties": {
+        "objectid": 427,
+        "code_ligne": "14",
+        "code_ligne_public": "14",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "005321",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g83b33",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.432",
+      "geometry": null,
+      "properties": {
+        "objectid": 432,
+        "code_ligne": "L91",
+        "code_ligne_public": "L91",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "27348B",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r39g52b139",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.451",
+      "geometry": null,
+      "properties": {
+        "objectid": 451,
+        "code_ligne": "N1",
+        "code_ligne_public": "N1",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "3A2757",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r58g39b87",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.456",
+      "geometry": null,
+      "properties": {
+        "objectid": 456,
+        "code_ligne": "86",
+        "code_ligne_public": "86",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "005321",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g83b33",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.492",
+      "geometry": null,
+      "properties": {
+        "objectid": 492,
+        "code_ligne": "88",
+        "code_ligne_public": "88",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "867F34",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r134g127b52",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.535",
+      "geometry": null,
+      "properties": {
+        "objectid": 535,
+        "code_ligne": "13",
+        "code_ligne_public": "13",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "009767",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g151b103",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.537",
+      "geometry": null,
+      "properties": {
+        "objectid": 537,
+        "code_ligne": "Z1",
+        "code_ligne_public": "Z1",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "FFD631",
+        "couleur_texte_hexadecimal": "000000",
+        "couleur_fond_rgb": "r255g214b49",
+        "couleur_texte_rgb": "r0g0b0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.566",
+      "geometry": null,
+      "properties": {
+        "objectid": 566,
+        "code_ligne": "L4",
+        "code_ligne_public": "L4",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "307BBF",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r48g123b191",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.574",
+      "geometry": null,
+      "properties": {
+        "objectid": 574,
+        "code_ligne": "ME2",
+        "code_ligne_public": "M2",
+        "mode_transport": "METRO",
+        "couleur_fond_hexadecimal": "E30613",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r227g6b19",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.577",
+      "geometry": null,
+      "properties": {
+        "objectid": 577,
+        "code_ligne": "50",
+        "code_ligne_public": "50",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "008C3C",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g140b60",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.655",
+      "geometry": null,
+      "properties": {
+        "objectid": 655,
+        "code_ligne": "E5",
+        "code_ligne_public": "E5",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "EE7203",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r238g114b3",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.678",
+      "geometry": null,
+      "properties": {
+        "objectid": 678,
+        "code_ligne": "C5",
+        "code_ligne_public": "C5",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "E83181",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r232g49b129",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.371",
+      "geometry": null,
+      "properties": {
+        "objectid": 371,
+        "code_ligne": "L6",
+        "code_ligne_public": "L6",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "307BBF",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r48g123b191",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.375",
+      "geometry": null,
+      "properties": {
+        "objectid": 375,
+        "code_ligne": "34",
+        "code_ligne_public": "34",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "008C3C",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g140b60",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.399",
+      "geometry": null,
+      "properties": {
+        "objectid": 399,
+        "code_ligne": "L2",
+        "code_ligne_public": "L2",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "00A6E2",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g166b226",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.400",
+      "geometry": null,
+      "properties": {
+        "objectid": 400,
+        "code_ligne": "L90",
+        "code_ligne_public": "L90",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "00A6E2",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g166b226",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.424",
+      "geometry": null,
+      "properties": {
+        "objectid": 424,
+        "code_ligne": "L3",
+        "code_ligne_public": "L3",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "307BBF",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r48g123b191",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.433",
+      "geometry": null,
+      "properties": {
+        "objectid": 433,
+        "code_ligne": "15",
+        "code_ligne_public": "15",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "867F34",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r134g127b52",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.435",
+      "geometry": null,
+      "properties": {
+        "objectid": 435,
+        "code_ligne": "CO3",
+        "code_ligne_public": "CO3",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "A91D30",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r169g29b48",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.474",
+      "geometry": null,
+      "properties": {
+        "objectid": 474,
+        "code_ligne": "51",
+        "code_ligne_public": "51",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "867F34",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r134g127b52",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.526",
+      "geometry": null,
+      "properties": {
+        "objectid": 526,
+        "code_ligne": "32",
+        "code_ligne_public": "32",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "005321",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r0g83b33",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.596",
+      "geometry": null,
+      "properties": {
+        "objectid": 596,
+        "code_ligne": "C2",
+        "code_ligne_public": "C2",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "E83181",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r232g49b129",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.671",
+      "geometry": null,
+      "properties": {
+        "objectid": 671,
+        "code_ligne": "E1",
+        "code_ligne_public": "E1",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "EE7203",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r238g114b3",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.672",
+      "geometry": null,
+      "properties": {
+        "objectid": 672,
+        "code_ligne": "E4",
+        "code_ligne_public": "E4",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "EE7203",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r238g114b3",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "couleurs_lignes.680",
+      "geometry": null,
+      "properties": {
+        "objectid": 680,
+        "code_ligne": "C1",
+        "code_ligne_public": "C1",
+        "mode_transport": "BUS",
+        "couleur_fond_hexadecimal": "E83181",
+        "couleur_texte_hexadecimal": "FFFFFF",
+        "couleur_fond_rgb": "r232g49b129",
+        "couleur_texte_rgb": "r255g255b255"
+      }
+    }
+  ],
+  "totalFeatures": 33,
+  "numberMatched": 33,
+  "numberReturned": 33,
+  "timeStamp": "2026-10-27T16:02:00Z",
+  "crs": null
+}

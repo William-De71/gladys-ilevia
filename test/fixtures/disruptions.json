@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "perturbations.72952487",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952487,
+        "identifiant_perturbation": "ILEVIA:Item::de7a353a-3951-408d-bc62-dd8440ce0c1c:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T05:00:00.055Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::c2387a1a-b136-4c53-83b2-a36edd676fae:LOC",
+        "message": "Ce lundi 26/10 - en raison de l'intervention technique sur la caténaire endommagée par les conditions météorologiques du 23/10, le trafic Tramway est interrompu entre les stations :Buisson <> Tourcoing Centre/Roubaix EurotéléportLe Tramway circule uniquement entre Gare Lille Flandres et Buisson.Des bus relais sont mis à votre disposition sur l'ensemble du parcours non desservi par le tramway.",
+        "date_modification": "2026-10-26T05:00:00.133Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952489",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952489,
+        "identifiant_perturbation": "ILEVIA:Item::afb4967c-d21b-44f5-90fa-87c34ab9d99d:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T06:25:49.233Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::9f93bd11-db44-4788-a0dd-ae495af914f1:LOC",
+        "message": "<b>Ce lundi 26/10</b> - en raison de l'intervention technique sur la caténaire endommagée par les conditions météorologiques du 23/10 : <br/><b>Jusqu’à 8h00 environ</b>, le trafic Tramway est interrompu, entre les stations :<br/><b>Foch <> Tourcoing Centre</b> <br/> <b>Acacias <> Roubaix Eurotéléport</b> <br/><b>Le Tramway circule jusqu’à 8h00 environ entre Gare Lille Flandres et Croisé Laroche.</b> <br/> <br/><b>À partir de 8h00 et jusqu’à la fin de service</b>, le trafic Tramway sera interrompu entre les stations :<br/> <b>Buisson <> Tourcoing Centre</b> <br/> <b>Buisson <> Roubaix Eurotéléport</b> <br/>Des bus relais sont mis à votre disposition dès maintenant à partir de la station Buisson pour desservir les stations non desservies par le tramway.",
+        "date_modification": "2026-10-26T06:25:49.280Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952490",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952490,
+        "identifiant_perturbation": "ILEVIA:Item::1a2a91ab-6270-43f9-9988-136ea57bf082:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T07:01:39.354Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::8af38c4a-203f-4f9c-84de-e3c0e80dddd4:LOC",
+        "message": "Les Bus Relais tramway ne desservent pas  la station : <br/>► Jean Moulin => report à Alfred Mongy. <br/>Retrouvez le plan pour rejoindre Alfred Mongy <a href=\"https://media.ilevia.fr/prod-cms/busmap/document/file/PRT-07-Jean-Moulin.pdf\" target=\"_blank\">[ici]</a>",
+        "date_modification": "2026-10-26T07:01:39.386Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952491",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952491,
+        "identifiant_perturbation": "ILEVIA:Item::c06eb560-8296-4d43-8a8b-d6014f0e756a:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T08:04:16.506Z",
+        "cible": "ILEVIA:LineRef::50:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::6ba11c92-d803-4f16-b3f9-65635f4ee3c9:LOC",
+        "message": "<b>Actuellement</b>, en raison d'une circulation dense, votre ligne est déviée : <br/>► En direction de <b>Saint André Chemin de Messines</b>, l'arrêt <b>Buisson</b> n'est pas desservi.<br/> Vous pouvez vous reporter aux arrêts <b>Marcq Piscine et Rouges Barres</b>.",
+        "date_modification": "2026-10-26T08:04:16.662Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952492",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952492,
+        "identifiant_perturbation": "ILEVIA:Item::db0016fd-58b3-400a-9f08-c675ed6a1a51:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T08:25:52.970Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::2e5f439f-10ae-4fcb-8728-aee6f3239af0:LOC",
+        "message": "<b>Ce lundi 26/10</b> - en raison de l'intervention technique sur la caténaire endommagée par les conditions météorologiques du 23/10 : <br/><b>Jusqu’à 9h30 environ</b>, le trafic Tramway est interrompu, entre les stations :<br/><b>Foch <> Tourcoing Centre</b> <br/> <b>Acacias <> Roubaix Eurotéléport</b> <br/><b>Le Tramway circule jusqu’à 9h30 environ entre Gare Lille Flandres et Croisé Laroche.</b> <br/> <br/><b>À partir de 9h30 et jusqu’à la fin de service</b>, le trafic Tramway sera interrompu entre les stations :<br/> <b>Buisson <> Tourcoing Centre</b> <br/> <b>Buisson <> Roubaix Eurotéléport</b> <br/>Des bus relais sont mis à votre disposition dès maintenant à partir de la station Buisson pour desservir les stations non desservies par le tramway.",
+        "date_modification": "2026-10-26T08:25:53.032Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952493",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952493,
+        "identifiant_perturbation": "ILEVIA:Item::f51d90a3-fbe0-4ef6-910e-d9f41fd3dd10:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T09:00:32.486Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::5573a20f-b3f0-4997-aeed-0d81f64e7ad4:LOC",
+        "message": "<b>Ce lundi 26/10</b> - en raison de l'intervention technique sur la caténaire endommagée par les conditions météorologiques du 23/10, le trafic Tramway est interrompu jusqu'à la fin de service, entre les stations :<br/> <br/><b>Buisson <> Tourcoing Centre</b> <br/> <b>Buisson <> Roubaix Eurotéléport</b> <br/> <br/><b>Le Tramway circule uniquement entre Gare Lille Flandres et Buisson.</b> <br/> <br/>Des bus relais sont mis à votre disposition pour desservir les stations non desservies par le tramway.",
+        "date_modification": "2026-10-26T09:00:32.595Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952494",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952494,
+        "identifiant_perturbation": "ILEVIA:Item::06e30d57-5648-4a9c-8773-7284bf7bb57a:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T09:13:01.918Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::399bbb03-cf87-4fe9-a5f7-3108c13b76fa:LOC",
+        "message": "En raison de travaux, les Bus Relais tramway ne desservent pas la station Clémenceau Hippodrome en direction de Tourcoing Centre et Roubaix Eurotéléport.▶ Vous pouvez vous reporter à l'arrêt Clémenceau Hippodrome de la Corolle 03 (situé Boulevard Clémenceau).",
+        "date_modification": "2026-10-26T09:13:01.950Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952496",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952496,
+        "identifiant_perturbation": "ILEVIA:Item::7d2b4cbe-2ab5-43c0-9f21-27f9f42128d2:LOC",
+        "type_perturbation": "Perturbation",
+        "heure_fin_prevue": "2026-10-27T14:41:39.220Z",
+        "cible": "ILEVIA:LineRef::ME1:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::cb64a710-4e8a-4bb9-8524-cff6a3e97c26:LOC",
+        "message": "En raison d'un défaut sur une rame, la ligne 1 du métro est interrompue jusque 15h 00 environ. Calculez votre trajet alternatif dans la rubrique \"itinéraire\". ilévia vous prie de l'excuser pour la gêne occasionnée.",
+        "date_modification": "2026-10-26T14:41:40.983Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952497",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952497,
+        "identifiant_perturbation": "ILEVIA:Item::374523be-8bd2-4043-9c26-ec0934b27a77:LOC",
+        "type_perturbation": "Perturbation",
+        "heure_fin_prevue": "2026-10-27T14:48:17.791Z",
+        "cible": "ILEVIA:LineRef::ME1:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::a585f467-304d-4440-b4dd-03cac0b852fc:LOC",
+        "message": "En raison d'un défaut sur une rame, la ligne 1 du métro est interrompue entre les stations REPUBLIQUE BEAUX-ARTS et VILLENEUVE D ASCQ HOTEL DE VILLE jusque 15h 26/10/2026 14:50:00 environ. ilévia vous prie de l'excuser pour la gêne occasionnée.",
+        "date_modification": "2026-10-26T14:48:19.523Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952498",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952498,
+        "identifiant_perturbation": "ILEVIA:Item::368a42c6-a29f-4908-9ecf-6d0bb02e3526:LOC",
+        "type_perturbation": "Perturbation",
+        "heure_fin_prevue": "2026-10-27T15:05:21.476Z",
+        "cible": "ILEVIA:LineRef::ME1:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::70466b5c-722a-4d38-a208-8ca8f9e31016:LOC",
+        "message": "En raison d'un défaut sur une rame, la ligne 1 du métro est interrompue entre les stations REPUBLIQUE BEAUX-ARTS et VILLENEUVE D ASCQ HOTEL DE VILLE jusque 15h 26/10/2026 15:05:00 environ. ilévia vous prie de l'excuser pour la gêne occasionnée.",
+        "date_modification": "2026-10-26T15:05:23.161Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952499",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952499,
+        "identifiant_perturbation": "ILEVIA:Item::c15f13d9-b010-4372-94ef-3546e2a943de:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T15:14:27.389Z",
+        "cible": "ILEVIA:LineRef::ME1:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::7355cb15-517c-445e-9213-72dbcdb6bc48:LOC",
+        "message": "En raison d'un défaut sur une rame, la ligne 1 du métro est ralentie en direction de 4 CANTONS STADE PIERRE MAUROY jusque 15h25 environ.",
+        "date_modification": "2026-10-26T15:14:27.841Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952501",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952501,
+        "identifiant_perturbation": "ILEVIA:Item::651db5e4-ebac-48ab-b5df-d32210c2166c:LOC",
+        "type_perturbation": "Perturbation",
+        "heure_fin_prevue": "2026-10-27T16:48:44.912Z",
+        "cible": "ILEVIA:LineRef::ME2:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::55de633f-81d5-41e2-9250-0aec632dd2df:LOC",
+        "message": "En raison d'un défaut de porte, la ligne 2 du métro est interrompue jusque 17h 00 environ. ilévia vous prie de l'excuser pour la gêne occasionnée.",
+        "date_modification": "2026-10-26T16:48:46.533Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952502",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952502,
+        "identifiant_perturbation": "ILEVIA:Item::067f6aff-a0a8-495f-b6de-8810d15285eb:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T21:31:39.814Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::742ebfa6-6d6d-4117-8f54-aced7242f7e2:LOC",
+        "message": "<b>Ce lundi 26/10</b> - en raison de l'intervention technique sur la caténaire endommagée par les conditions météorologiques du 23/10, le trafic Tramway est interrompu ces 26 et 27/10 jusqu'à la fin de service, entre les stations <b>Croisé Laroche et Tourcoing Centre</b> <br/> <b>Le Tramway circule uniquement entre Gare Lille Flandres et Roubaix Eurotéléport.</b> <br/> <br/>Des bus relais sont mis à votre disposition pour desservir les stations non desservies par le tramway.",
+        "date_modification": "2026-10-26T21:31:39.846Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952503",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952503,
+        "identifiant_perturbation": "ILEVIA:Item::a969cf4b-6eb3-499d-a952-4b0771250d72:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-28T04:00:00.049Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::3a02883e-49c9-442b-91b9-5536961029fe:LOC",
+        "message": "Du 2 au 30 novembre, dans le cadre des travaux de renouvellement des armoires techniques du tramway, les équipements des stations suivantes seront indisponibles (distributeur automatique de titres, valideurs, borne d'appel et écrans d'information voyageurs) :​Du 2 au 16 novembre, les équipements sont indisponibles à la station Parc Barbieux uniquement sur le quai direction Roubaix. La station reste toutefois desservie. Nous vous invitons à utiliser les équipements situés sur le quai direction Lille pour l'achat et la validation de votre titre.​Du 16 au 30 novembre, les équipements sont indisponibles à la station Jean Moulin sur les deux quais. La station reste toutefois desservie. Nous vous invitons à anticiper l'achat ou le rechargement de votre titre de transport avant votre déplacement.​",
+        "date_modification": "2026-10-27T04:00:00.080Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952504",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952504,
+        "identifiant_perturbation": "ILEVIA:Item::08f891ca-55df-47b1-9b68-7cca41360085:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-28T00:55:50Z",
+        "cible": "ILEVIA:LineRef::71:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::6dc8a102-f913-44fd-ad99-cf1654778ce5:LOC",
+        "message": "<b>Ce mardi 27/10</b> - en raison de l'intervention technique sur la caténaire endommagée par les conditions météorologiques du 23/10, le trafic Tramway est interrompu ce 27/10 jusqu'à la fin de service, entre les stations <b>Croisé Laroche et Tourcoing Centre</b> <br/> <b>Le Tramway circule uniquement entre Gare Lille Flandres et Roubaix Eurotéléport.</b> <br/> <br/>Des bus relais sont mis à votre disposition pour desservir les stations non desservies par le tramway.",
+        "date_modification": "2026-10-27T03:12:54.496Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perturbations.72952505",
+      "geometry": null,
+      "properties": {
+        "objectid": 72952505,
+        "identifiant_perturbation": "ILEVIA:Item::7c221035-be34-4c69-b048-5cf3e99ac9ec:LOC",
+        "type_perturbation": "Information",
+        "heure_fin_prevue": "2026-10-27T08:04:16Z",
+        "cible": "ILEVIA:LineRef::50:LOC",
+        "identifiant_message": "ILEVIA:InfoMessage::ec142b83-9be3-48f8-93e7-0b5d805f4312:LOC",
+        "message": "<b>Actuellement</b>, en raison d'une circulation dense, votre ligne est déviée : <br/>► En direction de <b>Saint André Chemin de Messines</b>, l'arrêt <b>Buisson</b> n'est pas desservi.<br/> Vous pouvez vous reporter aux arrêts <b>Marcq Piscine et Rouges Barres</b>.",
+        "date_modification": "2026-10-27T03:12:54.481Z"
+      }
+    }
+  ],
+  "totalFeatures": 16,
+  "numberMatched": 16,
+  "numberReturned": 16,
+  "timeStamp": "2026-10-27T16:02:08.746Z",
+  "crs": null
+}
